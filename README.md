@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazcalo&show_icons=true&locale=en" alt="kazcalo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazcalo&show_icons=true&locale=en&layout=compact" alt="kazcalo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazcalo&show_icons=true&locale=en&layout=compact" alt="kazcalo" /></p>
 <br/>
 <br/>
 
